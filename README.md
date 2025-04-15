@@ -7,8 +7,12 @@ OpenMP 是一套在 共享記憶體系統（Shared Memory System） 上執行的
 
 📦 基本特點
 特性	   說明
+
 語言支援	 C、C++、Fortran
+
 架構	   適用於共享記憶體架構（如多核心 CPU）
+
 執行模式	 多執行緒平行執行
+
 實作方式	 使用 #pragma omp 指令即可標記要平行執行的區域
 
