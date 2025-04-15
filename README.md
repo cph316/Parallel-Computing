@@ -16,3 +16,12 @@ OpenMP 是一套在 共享記憶體系統（Shared Memory System） 上執行的
 
 實作方式	 使用 #pragma omp 指令即可標記要平行執行的區域
 
+🚀 OpenMP 的優點
+簡單學習：只需加入幾行 #pragma 指令即可。
+
+編譯器支援好：GCC、Clang、Intel Compiler 都支援。
+
+可漸進式平行化：從單一迴圈慢慢平行化整個程式。
+
+適用多核心 CPU 加速：有效利用現代多核心電腦的效能。
+
