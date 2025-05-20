@@ -96,9 +96,9 @@ https://www.youtube.com/watch?v=BTfAPgilbc4
 平行計算(CUDA introduction 4)
 https://www.youtube.com/watch?v=X5dM23DnryE
 
-### 平行計算(CUDA 5) 
-- 6_CUDA_I_20240521 p.52
-- https://www.youtube.com/watch?v=p3GemvZyOUM
+平行計算(CUDA 5) 
+https://www.youtube.com/watch?v=p3GemvZyOUM
+6_CUDA_I_20240521 p.52
 
 平行計算 (CUDA 6)
 https://www.youtube.com/watch?v=VOKQyDo7Cg0
